@@ -1,0 +1,23 @@
+C:\Users\12\source\repos\Lab_14\Lab_14\bin\Debug\Lab_14.exe.config
+C:\Users\12\source\repos\Lab_14\Lab_14\bin\Debug\Lab_14.exe
+C:\Users\12\source\repos\Lab_14\Lab_14\bin\Debug\Lab_14.pdb
+C:\Users\12\source\repos\Lab_14\Lab_14\obj\Debug\Lab_14.csproj.AssemblyReference.cache
+C:\Users\12\source\repos\Lab_14\Lab_14\obj\Debug\Lab_14.csproj.SuggestedBindingRedirects.cache
+C:\Users\12\source\repos\Lab_14\Lab_14\obj\Debug\Lab_14.csproj.CoreCompileInputs.cache
+C:\Users\12\source\repos\Lab_14\Lab_14\obj\Debug\Lab_14.exe
+C:\Users\12\source\repos\Lab_14\Lab_14\obj\Debug\Lab_14.pdb
+C:\Users\User\OneDrive\Рабочий стол\lab_14\Lab_14\bin\Debug\Lab_14.exe.config
+C:\Users\User\OneDrive\Рабочий стол\lab_14\Lab_14\bin\Debug\Lab_14.exe
+C:\Users\User\OneDrive\Рабочий стол\lab_14\Lab_14\bin\Debug\Lab_14.pdb
+C:\Users\User\OneDrive\Рабочий стол\lab_14\Lab_14\obj\Debug\Lab_14.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\lab_14\Lab_14\obj\Debug\Lab_14.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Рабочий стол\lab_14\Lab_14\obj\Debug\Lab_14.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\lab_14\Lab_14\obj\Debug\Lab_14.exe
+C:\Users\User\OneDrive\Рабочий стол\lab_14\Lab_14\obj\Debug\Lab_14.pdb
+D:\Users\Никита\Desktop\lab_14\Lab_14\bin\Debug\Lab_14.exe.config
+D:\Users\Никита\Desktop\lab_14\Lab_14\bin\Debug\Lab_14.exe
+D:\Users\Никита\Desktop\lab_14\Lab_14\bin\Debug\Lab_14.pdb
+D:\Users\Никита\Desktop\lab_14\Lab_14\obj\Debug\Lab_14.csproj.AssemblyReference.cache
+D:\Users\Никита\Desktop\lab_14\Lab_14\obj\Debug\Lab_14.csproj.CoreCompileInputs.cache
+D:\Users\Никита\Desktop\lab_14\Lab_14\obj\Debug\Lab_14.exe
+D:\Users\Никита\Desktop\lab_14\Lab_14\obj\Debug\Lab_14.pdb
